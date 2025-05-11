@@ -21,7 +21,7 @@ iOSのみの実装
 ├── serviceAccountKey.json # ignoreされてる管理側Firebase情報
 └── test_push_notification.iml 
 ```
-### 手順
+### 既存のプロジェクトに編集ロジックを追加する場合
 1. Xcodeで`File > New > Target...`をクリック
 2. `Notification Service Extention`を選択し、`Next`
 3. `Product Name(任意の値)`を入力し、`Finish`
